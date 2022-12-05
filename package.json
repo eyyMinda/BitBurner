@@ -6,7 +6,9 @@
   "scripts": {
     "stonks": "nodemon Bitburner-Contracts/stonks/Index.js",
     "lz-decompress": "nodemon Bitburner-Contracts/LZDecompression/Index.js",
-    "waysofn": "nodemon Bitburner-Contracts/WaysOfSumOfN/countWays.js"
+    "lz-compress": "nodemon Bitburner-Contracts/LZCompression/Index.js",
+    "waysofn": "nodemon Bitburner-Contracts/WaysOfSumOfN/countWays.js",
+    "generateips": "nodemon Bitburner-Contracts/generateIPs/index.js"
   },
   "keywords": [],
   "author": "",
