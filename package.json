@@ -1,0 +1,21 @@
+{
+  "name": "bitburner",
+  "version": "1.0.0",
+  "description": "``` npm run ${year}-${dayNr} ```",
+  "type": "commonjs",
+  "scripts": {
+    "stonks": "nodemon Bitburner-Contracts/stonks/Index.js",
+    "lz-decompress": "nodemon Bitburner-Contracts/LZDecompression/Index.js",
+    "waysofn": "nodemon Bitburner-Contracts/WaysOfSumOfN/countWays.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "md5": "^2.3.0"
+  },
+  "main": "index.js"
+}
