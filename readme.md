@@ -12,10 +12,10 @@
 
 ### Script list:
 
-``` npm run lz-decompress ```
-
-``` npm run stonks ```
-
-``` npm run waysofn ```
+```
+npm run lz-decompress
+npm run stonks
+npm run waysofn
+```
 
  ¯\\_(ツ)_/¯
