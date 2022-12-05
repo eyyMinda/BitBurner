@@ -10,4 +10,10 @@
 ``` npm run waysofn ```
 
 
+#### script list:
+
+``` npm run lz-decompress ```
+``` npm run stonks ```
+``` npm run waysofn ```
+
  ¯\\_(ツ)_/¯
