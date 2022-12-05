@@ -10,7 +10,7 @@
 ``` npm run waysofn ```
 
 
-#### script list:
+### Script list:
 
 ``` npm run lz-decompress ```
 
